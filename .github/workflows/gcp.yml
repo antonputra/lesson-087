@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       IMAGE_NAME: lesson-087
-      PROJECT_ID: devopsbyexample-325402
+      PROJECT_ID: upwebsite
     steps:
     - name: Checkout
       uses: actions/checkout@v2
